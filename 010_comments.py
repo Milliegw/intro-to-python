@@ -69,8 +69,9 @@
 # yourself if you like.
 
 # Type your name as a comment on the next line.
+# Camilla Graham Wood
 
 # Hint: if you're on a Mac, type opt + 3 to get a #
-
+#
 # Now open up 011_identity.py and get started with some
 # real code!
